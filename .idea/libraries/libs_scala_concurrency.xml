@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs-scala-concurrency">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/antiqua/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/antiqua/libs" recursive="false" />
+  </library>
+</component>

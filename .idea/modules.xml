@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/antiqua/antiqua.iml" filepath="$PROJECT_DIR$/antiqua/antiqua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antiqua-test-game.iml" filepath="$PROJECT_DIR$/antiqua-test-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gleany/gleany.iml" filepath="$PROJECT_DIR$/gleany/gleany.iml" />
+    </modules>
+  </component>
+</project>
