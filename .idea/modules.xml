@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/antiqua/antiqua.iml" filepath="$PROJECT_DIR$/antiqua/antiqua.iml" />
-      <module fileurl="file://$PROJECT_DIR$/antiqua-test-game.iml" filepath="$PROJECT_DIR$/antiqua-test-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/gleany/gleany.iml" filepath="$PROJECT_DIR$/gleany/gleany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profundus.iml" filepath="$PROJECT_DIR$/profundus.iml" />
     </modules>
   </component>
 </project>
